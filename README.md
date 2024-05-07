@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-### Name: VIJAY R
-### Reg.NO: 212223240178
+### Name: KISHORE A
+### Reg.NO: 212222040078
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
